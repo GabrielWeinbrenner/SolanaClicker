@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "brave",
+            "name": "localhost:3001",
+            "request": "launch",
+            "url": "localhost:3001"
+        }
+    ]
+}
